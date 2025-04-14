@@ -1,7 +1,7 @@
 
 # 🔗 Lead Tracker Chrome Extension
 
-![Lead Tracker UI](image.png)
+![Lead Tracker UI](./image.png)
 
 ## 📌 Overview
 
